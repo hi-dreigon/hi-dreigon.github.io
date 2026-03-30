@@ -4,25 +4,19 @@
 <head>
 <style>
 body {
-	back-ground-colour: blue;
-	}
-	
+	background-colour: linen;
+}
+
 h1 {
-		colour: black;
-		text-align: centre;
-		}
-p {
-	font-family: arial;
-	font-size: 12px;
+	colour: maroon;
+	margin-right: 30px;
 }
 </style>
 </head>
-
 <body>
 	
-</head>
-<h1>Let's give this a whirl</h1>
-<p>Hydreigon is my favourite...</p>
+<h1>Heading</h1>
+<p>I love Hydreigon</p>
 
-</body> 
+</body>
 </html>
