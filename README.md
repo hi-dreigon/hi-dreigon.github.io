@@ -4,8 +4,10 @@
 <head>
 <style>
 body {
-
-h1{
+	back-ground-colour: blue;
+	}
+	
+h1 {
 		colour: black;
 		text-align: centre;
 		}
@@ -14,10 +16,13 @@ p {
 	font-size: 12px;
 }
 </style>
-<head>
-	<title>Hi Dreigon</title> 
-</head> 
-<body> 
-	<p>This is a test</p> 
+</head>
+
+<body>
+	
+</head>
+<h1>Let's give this a whirl</h1>
+<p>Hydreigon is my favourite...</p>
+
 </body> 
 </html>
