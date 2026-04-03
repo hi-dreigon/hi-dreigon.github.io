@@ -2,7 +2,7 @@
 <!DOCTYPE html> 
 <html> 
 <head>
-<style>
+<style type="text/css">
 	<link rel="stylesheet" type="text/css" href="https://hi-dreigon.github.io/style.css">
 body {
 	background-colour: #B22222;
