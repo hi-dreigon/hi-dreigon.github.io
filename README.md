@@ -1,5 +1,3 @@
-# hi-dreigon.github.io
-<!DOCTYPE html> 
 <html> 
 <head>
 	
