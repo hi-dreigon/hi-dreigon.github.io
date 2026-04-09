@@ -8,5 +8,9 @@
 
 <p>9.04.26<br>Writing is slow and steady. I have now reached 41,000 words on my recent writing project. The sequel for The Grimoire of Hugo Locksmith is currently sitting at approx. 30,000 words. They're slowly developing, but these things take time and patience. What doesn't help is the increasingly discomfort of sitting at a computer for extended periods of time. Not sure what to do about that.</p>
 
+<h2>About</h2>
+<p>J.E. Rowland is the author of The Grimoire of Hugo Locksmith and is currently working on its sequel, but frequently gets distracted by coding, reading, video games, and the like.</p>
+<a href="https://www.amazon.co.uk/Grimoire-Hugo-Locksmith-J-Rowland/dp/B0CZL99M8H">Book Link</a>
+
 </body>
 </html>
