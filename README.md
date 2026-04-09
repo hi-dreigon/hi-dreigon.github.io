@@ -2,35 +2,11 @@
 <!DOCTYPE html> 
 <html> 
 <head>
-<style type="text/css">
-	<link rel="stylesheet" type="text/css" href="https://hi-dreigon.github.io/style.css">
-body {
-	background-colour: #B22222;
-}
-.container {
-	max-width: 1200px;
-	margin: 0 auto;
-	padding: 60px; 20vw;
-}
-h1 {
-	colour: maroon;
-	margin-right: 30px;
-}
-</style>
-</head>
-<body>
-<div id = "header">
-	<div id = "nav" role = "navigation">
-		<ul>
-			<li>About</li>
-			<li>Contact</li>
-			<li>Gallery</li>
-		</ul>
-	</div>
-
 	
-<h1>Heading</h1>
-<p>I love Hydreigon</p>
+<h1>J.E.'s Writing Log</h1>
+<h2>A place to write about writing etc.</h2>
+
+<p>9.04.26<br>Writing is slow and steady. I have now reached 41,000 words on my recent writing project. The sequel for The Grimoire of Hugo Locksmith is currently sitting at approx. 30,000 words. They're slowly developing, but these things take time and patience. What doesn't help is the increasingly discomfort of sitting at a computer for extended periods of time. Not sure what to do about that.</p>
 
 </body>
 </html>
