@@ -1,15 +1,17 @@
 <html> 
 <head>
 	
+
+<embed type="image/png" src="rorororando logo.png" width="800" height="450">
 <h1>J.E.'s Writing Log</h1>
 <h2>An accountability journal</h2>
-<embed type="image/png" src="rorororando logo.png" width="800" height="450">
 
+<p>About<br>je rowland is an author and illustrator working in the UK. je rowland began working in the illustration industry in 2021 after graduating from university and has been working alongside creative undertakings since. je rowland is inspired by a range of influences such as 2000s visual culture, Victoriana, anime, etc. If you would like to work with je, feel free to reach out via email: ... </p>
 
-<p>9.04.26<br>Writing is slow and steady. I have now reached 41,000 words on my recent writing project. The sequel for The Grimoire of Hugo Locksmith is currently sitting at approx. 30,000 words. They're slowly developing, but these things take time and patience. What doesn't help is the increasingly discomfort of sitting at a computer for extended periods of time. Not sure what to do about that.</p>
+<p> For the sake of not killing the server with large image files, this site uses a pdf format. Simply click on the image map below and that will then load a "pdf portfolio" of similar works. Pretty inspired, eh? </p>
 
-<h2>About</h2>
-<p>J.E. Rowland is the author of The Grimoire of Hugo Locksmith and is currently working on its sequel, but frequently gets distracted by coding, reading, video games, and the like.</p>
+<h2>Links</h2>
+<p>Books currently in print:</p>
 <a href="https://www.amazon.co.uk/Grimoire-Hugo-Locksmith-J-Rowland/dp/B0CZL99M8H">Book Link</a>
 
 </body>
